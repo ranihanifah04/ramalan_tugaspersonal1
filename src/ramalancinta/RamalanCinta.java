@@ -77,7 +77,7 @@ public class RamalanCinta {
             System.out.println();
         }
         
-        System.out.println(nama2 + "[" + umur2 +"] " + "tahun");
+        System.out.println(nama2 + "[" + umur2 +"]" + "tahun");
         System.out.println("");
 
         System.out.print("Tekan ENTER untuk melihat hasil ramalan...");
